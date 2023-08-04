@@ -1,19 +1,19 @@
 ---
 enable: true
-title: Foire aux questions
-description: Une sélection des questions les plus fréquentes concernant le marriage en ligne.
+title: Veelgestelde vragen
+description: Het plannen van een online huwelijk brengt vragen met zich mee. We hebben de meestgestelde vragen voor je op een rijtje gezet. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op.
 faqItem:
-  - question: Combien coûte un marriage en ligne?
-    answer: L'offre de Courtly débute à 499 euro. Vous pouvez ajouter des options payantes
+  - question: Hoeveel kost het om onlnie te trouwen?
+    answer: Het standaard pakket van Courtly bevat een geldige huwelijksvergunning, een online ceremonie en een wettelijk, Amerikaans huwelijkscertificaat voor slechts 499 euro.
     dataTarget: One
     show: show
 
-  - question: Doit-on aller au Etas-Unis pour se marrier ?
-    answer: Non, les démarches administrative ainsi que la cérémonie se font 100% en ligne.
+  - question: Is het huwelijks rechtsgeldig?
+    answer: Ja, sinds 2020 is online trouwen 100% legaal in de VS via de staat Utah. Mensen over de hele wereld kunnen volledig online trouwen. Het is niet nodig om inkt op papier of een voet in het gerechtsgebouw te zetten om een legale huwelijksakte voor de VS te krijgen.
     dataTarget: Two
     show: 
     
-  - question: Puis-je avoir un example de certificat de marriage?
-    answer: Vous pouvez consulter librement la base de donnée publique. Votre marriage y sera inscrit en quelque jours.
+  - question: Voor wie is online trouwen via Courtly beschikbaar?
+    answer: Elke instemmende volwassene die 1) 18 jaar of ouder is, 2) niet getrouwd is en 3) niet gescheiden is in de afgelopen 60 dagen. Alles wat je nodig hebt is een geldig legitimatiebewijs, een webcam en een stabiele internetverbinding.
     dataTarget: Three
     show: 
