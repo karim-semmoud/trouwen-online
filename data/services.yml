@@ -1,16 +1,16 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: You can benefit more than you think
+title: Ontdek de voordelen
 services:
   - icon: ti-time
-    title: Rapide
-    description: N'attendez plus des mois avant de vous marrier, vous pouvez le faire en moins de 2 semaines
+    title: Flexibel en snel
+    description: In minder dan twee weken jullie droombruiloft online gerealiseerd.
 
   - icon: ti-face-smile
-    title: Facile
-    description: Marriage en ligne vous accompagne pour toutes les étapes en Français
+    title: Eenvoudig
+    description: Eenvoudige registratie en heldere uitleg. Wij helpen jullie graag bij alle stappen.
 
   - icon: ti-receipt
-    title: Légal
-    description: C'est officiel! Nous vous enverrons une copie numérique, puis travaillerons avec le comté pour vous livrer votre nouveau certificat de mariage américain le plus rapidement possible.
+    title: Legaal
+    description: Het huwelijk is officieel! We sturen je een digitale kopie en werken vervolgens samen met Courtly om de huwelijksakte zo snel mogelijk af te leveren.
