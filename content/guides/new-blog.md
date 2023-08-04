@@ -2,30 +2,26 @@
 title: "New blog"
 date: 2023-08-01T12:57:56+06:00
 featureImage: images/blog/blog-post-5.jpg
-author: Maxime Brandts
+author: Camille Sem
 authorThumb: images/client/client-2.png
 ---
 
-# Nieuwe blog over online trouwen
+# Voor wie is Courtly geschikt?
 
-Working from home can be one of the greatest perks of doing freelance work. But as appealing as remote work sounds, it comes with several challenges. What if you need something important from the office that you have no access to? What if loneliness takes over and you experience time management problems? What if you lose connection with colleagues? What if you’re overwhelmed by other home-related distractions like family members, pets, and electronics?
+  Online trouwen is een relatief nieuwe trend die snel aan populariteit wint. Er kunnen verschillende redenen zijn dat jullie een online ceremonie over een fysieke ceremonie prefereren. Het kan zijn dat je partner en jij momenteel niet in hetzelfde land verkeren of dat je jullie vrienden en familie hebben die lastig naar een fysieke trouwlocatie te brengen zijn. Denk aan familie woonachtig in verschillende landen. Dit logistieke gedeelte komt geheel te vervallen. Je hebt geen zorgen over reisplannen en accommodaties. Door te trouwen via Courtly bespaar je bovendien vele kosten. Dit biedt de mogelijkheid om je te concentreren op andere belangrijke aspecten van jullie toekomstige leven samen.
 
 ![blog image](/images/blog/single-blog-1.jpg)
 
-If you need inspiration, we've compiled some awesome information from the top-performing professionals in the industry. These are answers to commonly asked questions from artists you may never get to meet in person, and we combined them in one freaking sweet book.
 
-Download Experiment. Fail. Repeat and discover the secrets of the universe! Or, you know, just get encouraged, which ever you most prefer is totally fine.
+## Van het begin tot het jawoord
 
-## Working from Home: Healthy Practices to Stay Productive
+ Het is ons streven jullie de mooiste dag van je leven te laten bezorgen. Zoals je wellicht in de onze FAQ hebt gelezen is trouwen online via Courtly geschikt voor iedere instemmende volwassene die:
 
-- Setting a Healthy Routine
-- Proper Ergonomics
-- Exercise Regularly
-- Find Work-Life Balance When Working from Home
-- Dealing with Family Members and Coworkers
+- 18 jaar of ouder is
+- Momenteel niet getrouwd is
+- Niet gescheiden is in de afgelopen 60 dagen
 
 ![blog image](/images/blog/single-blog-3.jpg)
 
-We are creatures of habit – and that is because routine helps us both mentally and physically to prepare for things. One of the benefits of working from home is flexibility. It might be tempting to roll out of bed and onto your couch and starting checking emails or browsing through social media, but you’ll need to establish a schedule when it comes to working remotely.
+Alles wat je nodig hebt is een geldig legitimatiebewijs, een webcam en een stabiele internetverbinding. Trouwen online helpt je samen met Courtly van het begin tot het jawoord met al je vragen. Ook nemen al het nodige papierwerk van je over zodat jullie je uitsluitend kunnen focussen op het leuke gedeelte, de aankomende bruiloft.
 
-What’s goes into your schedule is a guide on what you’re supposed to do at a specific time. Get up early in the morning, take a shower, prepare a cup of coffee and take breakfast, then get dressed as if you’re actually reporting to work. You don’t have to wear a suit and a tie, but you’ll need to prepare for the day the same way you do while going to the office. Set regular working hours and include breaks and meal times. In the end, a routine can be extremely powerful at helping you get started every day.
