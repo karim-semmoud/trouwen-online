@@ -1,0 +1,14 @@
+---
+enable: true
+title: Découvrez nos guides pour se marrier en ligne
+description: Avant pendant et après, Marriage en ligne vous accompagne tout au long de votre marriage de rêve
+description2: Nous avez besoin de plus d'informations, nous avons séléctionné des informations pertinentes
+buttonText: Decouvrez nos guides
+Title2nd: Courtly, une solution facile, économique et légale.
+description2nd: Avec des milliers de clients satisfait, vous pouvez faire confiance à Courtly pour vous garantir un marriage en toute légalité
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Toutes les démarches sonnt en ligne
+  - text: A partir de 499 euro seulement
+  - text: Recevez votre certificat de marriage en quelques jours

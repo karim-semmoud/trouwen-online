@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: You can benefit more than you think
+services:
+  - icon: ti-time
+    title: Rapide
+    description: N'attendez plus des mois avant de vous marrier, vous pouvez le faire en moins de 2 semaines
+
+  - icon: ti-face-smile
+    title: Facile
+    description: Marriage en ligne vous accompagne pour toutes les étapes en Français
+
+  - icon: ti-receipt
+    title: Légal
+    description: C'est officiel! Nous vous enverrons une copie numérique, puis travaillerons avec le comté pour vous livrer votre nouveau certificat de mariage américain le plus rapidement possible.

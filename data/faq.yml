@@ -1,0 +1,19 @@
+---
+enable: true
+title: Foire aux questions
+description: Une sélection des questions les plus fréquentes concernant le marriage en ligne.
+faqItem:
+  - question: Combien coûte un marriage en ligne?
+    answer: L'offre de Courtly débute à 499 euro. Vous pouvez ajouter des options payantes
+    dataTarget: One
+    show: show
+
+  - question: Doit-on aller au Etas-Unis pour se marrier ?
+    answer: Non, les démarches administrative ainsi que la cérémonie se font 100% en ligne.
+    dataTarget: Two
+    show: 
+    
+  - question: Puis-je avoir un example de certificat de marriage?
+    answer: Vous pouvez consulter librement la base de donnée publique. Votre marriage y sera inscrit en quelque jours.
+    dataTarget: Three
+    show: 

@@ -1,0 +1,60 @@
+# MAIN base
+baseURL = "https://marriage-en-ligne.fr/"
+languageCode = "en-us"
+title = "Marriage en ligne | Votre guide complet "
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Acceuil"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "Guides"
+    url = "/guides"
+    weight = 2
+[[menu.main]]
+    name = "Contactez-nous"
+    url = "/contact"
+    weight = 3
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Acceuil"
+    url = "#hero"
+    weight = 1
+[[menu.sitemap]]
+    name = "Nos guides"
+    url = "/guides"
+    weight = 2
+[[menu.sitemap]]
+    name = "Contactez-nous"
+    url = "/contact"
+    weight = 3
+
+# Footer Address
+[params.address]
+address = "23 Khan Niketon, Grand Street, NYK."
+email = "apsho@example.com"
+phone = "+(448) 833 5272 332"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/pg/staticmania"
+twitter = "https://twitter.com/static_mania"
+github = "https://github.com/StaticMania"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "UA-175025671-2"
+
+# Footer
+footerTitle = "Un marriage de rêve en ligne dès aujourd'hui"
+copyright1 = "Tous droits résérvés"
+copyright2 = "© {year} Dévelopé avec amour par <a href=\"https://netoum.com/\" target=\"_blank\">Netoum </a>"
+
+#contact
+email = "help@staticmania.com"
