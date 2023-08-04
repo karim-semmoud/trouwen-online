@@ -14,21 +14,21 @@ theme = "apsho"
     url = "/guides"
     weight = 2
 [[menu.main]]
-    name = "Neem contact met ons op"
+    name = "Neem contact op"
     url = "/contact"
     weight = 3
 
 # Footer Sitemap
 [[menu.sitemap]]
-    name = "Acceuil"
+    name = "Ontvangst"
     url = "#hero"
     weight = 1
 [[menu.sitemap]]
-    name = "Nos guides"
+    name = "Gidsen"
     url = "/guides"
     weight = 2
 [[menu.sitemap]]
-    name = "Contactez-nous"
+    name = "Neem contact op"
     url = "/contact"
     weight = 3
 
@@ -52,8 +52,8 @@ fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Un marriage de rêve en ligne dès aujourd'hui"
-copyright1 = "Tous droits résérvés"
+footerTitle = "Je droom bruiloft online geregeld"
+copyright1 = "Alle rechten gereserveerd"
 copyright2 = "© {year} Dévelopé avec amour par <a href=\"https://netoum.com/\" target=\"_blank\">Netoum </a>"
 
 #contact
