@@ -8,9 +8,9 @@ services:
     description: In minder dan twee weken je droombruiloft online gerealiseerd op een door jullie gewenste datum.
 
   - icon: ti-face-smile
-    title: Een totaalpakket
-    description: Trouwen kan ingewikkeld zijn. We helpen door een totaalpakket aan te bieden. Van de officiant tot al het papierwerk.
+    title: Totaalpakket
+    description: Trouwen kan ingewikkeld zijn. We helpen door een totaalpakket aan te bieden. Van de officiant tot al het papierwerk dat nodig is om online te kunnen trouwen.
 
   - icon: ti-receipt
     title: Legaal
-    description: Het huwelijk is officieel! We sturen je een digitale kopie en werken vervolgens samen met Courtly om zo snel mogelijk de huwelijksakte te versturen.
+    description: Het huwelijk is officieel! We sturen je een digitale kopie en werken samen met Courtly om zo snel mogelijk de huwelijksakte te versturen.
