@@ -1,5 +1,5 @@
 ---
-title: "New blog"
+title: "Voor wie is Courtly geschikt?"
 date: 2023-08-01T12:57:56+06:00
 featureImage: images/blog/blog-post-5.jpg
 author: Camille Sem
