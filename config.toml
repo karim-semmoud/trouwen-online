@@ -1,20 +1,20 @@
 # MAIN base
-baseURL = "https://marriage-en-ligne.fr/"
+baseURL = "https://karim-semmoud.github.io/trouwen-online/"
 languageCode = "en-us"
-title = "Marriage en ligne | Votre guide complet "
+title = "Trouwen Online | Uw complete gids "
 theme = "apsho"
 
 # Navigation Bar
 [[menu.main]]
-    name = "Acceuil"
+    name = "Ontvangst"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "Guides"
+    name = "Gidsen"
     url = "/guides"
     weight = 2
 [[menu.main]]
-    name = "Contactez-nous"
+    name = "Neem contact met ons op"
     url = "/contact"
     weight = 3
 
