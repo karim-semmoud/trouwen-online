@@ -1,5 +1,5 @@
 ---
-title: "Découvrez tous nos guides"
+title: "Blogs"
 date: 2020-08-31T20:33:11+06:00
-description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto sequi, dicta placeat aliquam nostrum quo quas cum recusandae numquam odit vitae autem libero corrupti natus quae suscipit animi accusamus praesentium?"
+description: "Lees hier meer over trouwen online in samenwerking met Courtly, handige tips and trics en nuttige informatie over het verwezelijke van jouw droombruiloft online "
 ---
