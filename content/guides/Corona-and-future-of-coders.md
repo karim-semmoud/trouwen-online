@@ -7,12 +7,20 @@ authorThumb: images/client/client-1.png
 ---
 ## 
 
-Een online bruiloft kan net zo romantisch en feestelijk zijn als een traditionele bruiloft. Met de juiste voorbereiding en creativiteit, kun zorgen voor een sfeervolle virtuele ceremonie. Hier zijn enkele tips and tricks om je online bruiloft een onvergetelijke en liefdevolle ervaring te maken.
+Een online bruiloft kan net zo romantisch en feestelijk zijn als een traditionele bruiloft. Met de juiste voorbereiding en creativiteit, zorg je voor een sfeervolle virtuele ceremonie. Hierbij geven we je enkele tips and tricks om van je online bruiloft een onvergetelijke en liefdevolle ervaring te maken.
 
-Kies een locatie die voor jullie belangrijk is. Dit kan zijn de plek waar jullie elkaar ontmoet hebben of waar je graag komt. Wanneer je de locatie gevonden hebt, kun je nadenken over de achtergrond van de videocall. De ceremonie wordt voor jullie opgenomen. Je kunt het beeld net zo feestelijk maken als je zelf wil.
+### De voorbereiding
 
+Dat jullie online trouwen betekent niet dat je jullie digitale gasten geen uitnodiging kunnen sturen. Hoe leuk is het wanneer  vrienden en familie een fysieke uitnodiging ontvangen met daarin de trouwdatum en het tijdstip.   
+
+### Een persoonlijke plek en achtergrond voor een romantische sfeer
+
+Kies een locatie die voor jullie belangrijk is. Dit kan zijn de plek waar jullie elkaar ontmoet hebben of een plek waar je graag komt. Wanneer je de locatie gevonden hebt, kun je ook nadenken over de achtergrond van de videocall. De ceremonie wordt voor jullie opgenomen. Je kunt het beeld net zo feestelijk maken als je zelf wil. Misschien wil je vrolijke bloemen of kaarsen in beeld. Je kunt het zo persoonlijk maken als je zelf wil.
+
+### De dresscode
+
+Vraag je gasten om zich feestelijk aan te kleden. Kies je voor een bepaald thema zoals, zoals black-tie of casual chic? Je online bruiloft zal op deze manier echt als een evenement aanvoelen en draagt het bij aan de vrolijke sfeer.
 Tips and trics
-Wat te doen om het toch nog persoonlijk te maken voor het thuisfront/vrienden/familie
 Kaartje versturen afspreken dat jullie je mooi aankleden
 Samen op zoek gaan naar ringen en een jurk etc
 
