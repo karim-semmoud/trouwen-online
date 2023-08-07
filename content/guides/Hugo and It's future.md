@@ -21,7 +21,7 @@ Traditionele bruiloften kunnen aanzienlijke kosten met zich meebrengen. Van het 
 
 Niet iedereen verlangt naar een grootschalige bruiloft met honderden gasten. Voor sommigen is een intieme ceremonie met naaste familie en vrienden gewenst. Door te trouwen via Courtly creëer je eenvoudig een intieme sfeer waarbij het paar zich zonder afleidingen volledig kan concentreren op de betekenis van hun verbintenis. Mocht je wel een grootschalige online bruiloft willen dan is dat uiteraard ook mogelijk. 
 
-## Liefde is de wijsheid van de dwaas en de dwaasheid van de wijze. - Samuel Johnson
+## Liefde is de wijsheid van de dwaas en de dwaasheid van de wijze - Samuel Johnson
 
 ### 4: Flexibele Planning
 
