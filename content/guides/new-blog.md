@@ -21,5 +21,5 @@ authorThumb: images/client/client-2.png
 - Momenteel niet getrouwd is
 - Niet gescheiden is in de afgelopen 60 dagen
 
-Alles wat je nodig hebt is een geldig legitimatiebewijs, een webcam en een stabiele internetverbinding. Trouwen online helpt je samen met Courtly van het begin tot het jawoord met al je vragen. Ook nemen al het nodige papierwerk van je over zodat jullie je uitsluitend kunnen focussen op het leuke gedeelte, de aankomende bruiloft.
+Alles wat je nodig hebt, is een geldig legitimatiebewijs, een webcam en een stabiele internetverbinding. Trouwen online helpt je samen met Courtly van het begin tot het jawoord met al je vragen. Ook nemen al het nodige papierwerk van je over zodat jullie je uitsluitend kunnen focussen op het leuke gedeelte, de aankomende bruiloft.
 

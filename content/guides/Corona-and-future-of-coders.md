@@ -1,5 +1,5 @@
 ---
-title: "Tip andtrics"
+title: "Tip and trics"
 date: 2023-06-06T20:18:07+06:00
 featureImage: images/blog/blog-post-2.jpg
 author: Matheo
@@ -10,6 +10,12 @@ authorThumb: images/client/client-1.png
 Een online bruiloft kan net zo romantisch en feestelijk zijn als een traditionele bruiloft. Met de juiste voorbereiding en creativiteit, kun zorgen voor een sfeervolle virtuele ceremonie. Hier zijn enkele tips and tricks om je online bruiloft een onvergetelijke en liefdevolle ervaring te maken.
 
 Kies een locatie die voor jullie belangrijk is. Dit kan zijn de plek waar jullie elkaar ontmoet hebben of waar je graag komt. Wanneer je de locatie gevonden hebt, kun je nadenken over de achtergrond van de videocall. De ceremonie wordt voor jullie opgenomen. Je kunt het beeld net zo feestelijk maken als je zelf wil.
+
+Tips and trics
+Wat te doen om het toch nog persoonlijk te maken voor het thuisfront/vrienden/familie
+Kaartje versturen afspreken dat jullie je mooi aankleden
+Samen op zoek gaan naar ringen en een jurk etc
+
 
 ## Working from Home: Healthy Practices to Stay Productive
 
