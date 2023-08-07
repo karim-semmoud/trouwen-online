@@ -1,20 +1,15 @@
 ---
-title: "Corona and future of coders"
-date: 2020-09-06T20:18:07+06:00
+title: "Tip andtrics"
+date: 2023-06-06T20:18:07+06:00
 featureImage: images/blog/blog-post-2.jpg
-author: Mia Khalifa
+author: Matheo
 authorThumb: images/client/client-1.png
 ---
+## 
 
-A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.
+Een online bruiloft kan net zo romantisch en feestelijk zijn als een traditionele bruiloft. Met de juiste voorbereiding en creativiteit, kun zorgen voor een sfeervolle virtuele ceremonie. Hier zijn enkele tips and tricks om je online bruiloft een onvergetelijke en liefdevolle ervaring te maken.
 
-Working from home can be one of the greatest perks of doing freelance work. But as appealing as remote work sounds, it comes with several challenges. What if you need something important from the office that you have no access to? What if loneliness takes over and you experience time management problems? What if you lose connection with colleagues? What if you’re overwhelmed by other home-related distractions like family members, pets, and electronics?
-
-![blog image](/images/blog/single-blog-1.jpg)
-
-If you need inspiration, we've compiled some awesome information from the top-performing professionals in the industry. These are answers to commonly asked questions from artists you may never get to meet in person, and we combined them in one freaking sweet book.
-
-Download Experiment. Fail. Repeat and discover the secrets of the universe! Or, you know, just get encouraged, which ever you most prefer is totally fine.
+Kies een locatie die voor jullie belangrijk is. Dit kan zijn de plek waar jullie elkaar ontmoet hebben of waar je graag komt. Wanneer je de locatie gevonden hebt, kun je nadenken over de achtergrond van de videocall. De ceremonie wordt voor jullie opgenomen. Je kunt het beeld net zo feestelijk maken als je zelf wil.
 
 ## Working from Home: Healthy Practices to Stay Productive
 
