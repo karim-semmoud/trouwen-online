@@ -11,7 +11,7 @@ Een online bruiloft kan net zo romantisch en feestelijk zijn als een traditionel
 
 ### De voorbereiding
 
-Dat jullie online trouwen betekent niet dat je jullie digitale gasten geen uitnodiging kunnen sturen. Hoe leuk is het wanneer  vrienden en familie een fysieke uitnodiging ontvangen met daarin de trouwdatum en het tijdstip.   
+Dat jullie online trouwen betekent niet dat jullie je digitale gasten geen fysieke uitnodiging kunnen sturen. Hoe leuk is het wanneer  vrienden en familie een kaart in de brievenbus ontvangen met daarin de trouwdatum en het tijdstip.   
 
 ### Een persoonlijke plek en achtergrond voor een romantische sfeer
 
@@ -20,21 +20,9 @@ Kies een locatie die voor jullie belangrijk is. Dit kan zijn de plek waar jullie
 ### De dresscode
 
 Vraag je gasten om zich feestelijk aan te kleden. Kies je voor een bepaald thema zoals, zoals black-tie of casual chic? Je online bruiloft zal op deze manier echt als een evenement aanvoelen en draagt het bij aan de vrolijke sfeer.
-Tips and trics
-Kaartje versturen afspreken dat jullie je mooi aankleden
-Samen op zoek gaan naar ringen en een jurk etc
 
+### Staan de drankjes al koud?
 
-## Working from Home: Healthy Practices to Stay Productive
+Na de ceremonie kun je ervoor kiezen om samen met de gasten een drankje te drinken. Net als bij een traditionele bruiloft kun je zorgen voor muziek, speeches, en een feestje. Zorg dat iedereen een lekker drankje in de koelkast klaar heeft staan zodat er na afloop geproost kan worden.
 
-- Setting a Healthy Routine
-- Proper Ergonomics
-- Exercise Regularly
-- Find Work-Life Balance When Working from Home
-- Dealing with Family Members and Coworkers
-
-![blog image](/images/blog/single-blog-4.jpg)
-
-We are creatures of habit – and that is because routine helps us both mentally and physically to prepare for things. One of the benefits of working from home is flexibility. It might be tempting to roll out of bed and onto your couch and starting checking emails or browsing through social media, but you’ll need to establish a schedule when it comes to working remotely.
-
-What’s goes into your schedule is a guide on what you’re supposed to do at a specific time. Get up early in the morning, take a shower, prepare a cup of coffee and take breakfast, then get dressed as if you’re actually reporting to work. You don’t have to wear a suit and a tie, but you’ll need to prepare for the day the same way you do while going to the office. Set regular working hours and include breaks and meal times. In the end, a routine can be extremely powerful at helping you get started every day.
+Onthoud dat het belangrijk is om vooraf te testen en te oefenen met de technologie om technische problemen op de dag zelf te minimaliseren. Door aandacht te besteden aan elk detail en je persoonlijke touch toe te voegen, kun je een online bruiloft creëren die net zo memorabel en betekenisvol is als een traditionele viering.
