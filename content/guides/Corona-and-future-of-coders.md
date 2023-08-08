@@ -19,7 +19,11 @@ Kies een locatie die voor jullie belangrijk is. Dit kan zijn de plek waar jullie
 
 ### De dresscode
 
-Vraag je gasten om zich feestelijk aan te kleden. Kies je voor een bepaald thema zoals, zoals black-tie of casual chic? Je online bruiloft zal op deze manier echt als een evenement aanvoelen en draagt het bij aan de vrolijke sfeer.
+Vraag je gasten om zich feestelijk aan te kleden. Kies je voor een bepaald thema zoals casual chic. Je online bruiloft zal op deze manier echt als een evenement aanvoelen en draagt het bij aan de vrolijke sfeer.
+
+### Hoe kleden jullie je eigenlijk zelf?
+
+ Willen jullie gaan voor een chic pak en een feestelijke trouwjurk? Of liever meer casual met een fijne jeans en een blouse. Alles is mogelijk, er zijn geen regels in wat goed of fout is. Het gaat erom waar jullie je als aanstaand bruidspaar fijn bij voelen. 
 
 ### Staan de drankjes al koud?
 
