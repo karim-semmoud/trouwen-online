@@ -2,7 +2,6 @@
 baseURL = "https://karim-semmoud.github.io/trouwen-online/"
 languageCode = "en-us"
 title = "Trouwen Online | Uw complete gids "
-theme = "apsho"
 
 # Navigation Bar
 [[menu.main]]
