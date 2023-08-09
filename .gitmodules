@@ -1,0 +1,3 @@
+[submodule "themes/apsho"]
+	path = themes/apsho
+	url = git@github.com:karim-semmoud/hugo-apsho.git
