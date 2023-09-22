@@ -11,7 +11,7 @@ theme = "hugo-apsho"
     weight = 1
 [[menu.main]]
     name = "Blogs"
-    url = "/guides"
+    url = "/gids"
     weight = 2
 [[menu.main]]
     name = "Neem contact op"
@@ -25,7 +25,7 @@ theme = "hugo-apsho"
     weight = 1
 [[menu.sitemap]]
     name = "Blogs"
-    url = "/guides"
+    url = "/gids"
     weight = 2
 [[menu.sitemap]]
     name = "Neem contact op"
