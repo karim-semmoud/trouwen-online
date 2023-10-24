@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://karim-semmoud.github.io/trouwen-online/"
+baseURL = "https://www.trouwen-online.nl/"
 languageCode = "en-us"
 title = "Trouwen Online | Uw complete gids "
 theme = "hugo-apsho"
@@ -58,3 +58,4 @@ copyright2 = "© {year} Dévelopé avec amour par <a href=\"https://netoum.com/\
 
 #contact
 email = "help@staticmania.com"
+
